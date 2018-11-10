@@ -5,3 +5,5 @@ This is a simple introduction of graph convolutional network. In this introducti
   - (ICLR-2017) [Thomas N. Kipf] Semi-Supervised Classification with Graph Convolutional Networks
   
 When writing this presentation, I made clear some of my confusions about graph convolutional network and I hope this post could be of some use to anyone who is new to this topic.
+
+Please let me know if there are any mistakes in the post.
